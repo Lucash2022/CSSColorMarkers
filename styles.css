@@ -2,9 +2,54 @@ h1{
     text-align:center;
   }
   .marker{
-    background-color: red;
+
     width: 200px;
     height: 25px;
     margin:10px auto;
-
   }
+  .one{
+    background-color: rgb(255, 127, 0);
+  }
+  .two{
+    background-color: rgb(0, 255, 255);
+  }
+  .three{
+    background-color: rgb(0, 0, 255);
+  }
+  .container{
+    background-color: rgb(255, 255, 255);
+    padding:10px 0;
+  }
+  p{
+    font-size: 14px;
+    text-align: center;
+  }
+  .container2{
+    background-color: rgb(255, 255, 255);
+    padding:10px 0;
+  }
+  .four{
+    background-color: rgb(255, 0, 0);
+  }
+  .five{
+    background-color: rgb(0, 255, 0);
+  }
+  .six{
+    background-color: rgb(0, 0, 255);
+  }
+  .seven{
+    background-color: rgb(255, 255, 0);
+  }
+  .eight{
+    background-color: rgb(0, 255, 255);
+  }
+  .nine{
+    background-color: rgb(255, 0, 255);
+  }
+  .ten{
+    background-color: rgb(255, 127, 0);
+  }
+  .eleven{
+    background-color: rgb(0,255,127);
+  }
+
